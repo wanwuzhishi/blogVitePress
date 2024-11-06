@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "九天之上",
+    title: "万物之时",
     // 站点描述
-    description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
+    description: "万物之时的个人博客",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -14,14 +14,14 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "雨天狂奔",
+      name: "万物之时",
       cover: "/images/logo/logo.webp",
-      email: "admin@24811213.xyz",
+      email: "wwzs@proton.me",
       link: "https://www.24811213.xyz",
     },
   },
   // 备案信息
-  icp: "鄂ICP备202411-001号",
+  icp: "",
   // 建站日期
   since: "2024-11-1",
   // 每页文章数据
