@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.24811213.xyz",
+    site: "https://blogvitepress.pages.dev",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "万物之时",
       cover: "/images/logo/logo.webp",
       email: "wwzs@proton.me",
-      link: "https://www.24811213.xyz",
+      link: "https://126330.xyz",
     },
   },
   // 备案信息
@@ -154,17 +154,12 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "博客主站",
-          url: "https://blog.811520.xyz/",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "博客演示站",
-          url: "/",
+          url: "https://blog.wwzs.fun/",
         },
         {
           icon: "/images/logo/logo.webp",
           name: "个人主页",
-          url: "https://www.24811213.xyz/",
+          url: "https://126330.xyz/",
         },
         {
           icon: "/images/logo/logo.webp",
@@ -230,19 +225,19 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:admin@24811213.xyz",
+        link: "mailto:wwzs@proton.me",
       },
       {
         icon: "github",
-        link: "https://github.com/yutian81/",
+        link: "https://github.com/wanwuzhishi/",
       },
       {
         icon: "telegram",
-        link: "https://t.me/yutian88881",
+        link: "https://t.me/wanwuzhishi",
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/677845115",
+        link: "https://space.bilibili.com/441476314",
       },
     ],
     // sitemap
@@ -296,10 +291,9 @@ export const themeConfig = {
       {
         text: "网站服务",
         items: [
-          { text: "音乐时刻", link: "https://blog.811520.xyz/music/", newTab: true },
-          { text: "站点状态", link: "https://uptime.ytian.us.kg/status/service", newTab: true },
-          { text: "站点订阅", link: "https://blog.24811213.xyz/rss.xml", newTab: true },
-          { text: "问题反馈", link: "https://github.com/yutian81/yutian81.github.io/issues", newTab: true, },
+          { text: "站点状态", link: "https://uptimeflare-bjr.pages.dev", newTab: true },
+          { text: "站点订阅", link: "https://blogvitepress.pages.dev/rss.xml", newTab: true },
+          { text: "问题反馈", link: "https://github.com/wanwuzhishi/blogVitePress/issues", newTab: true, },
         ],
       },
     ],
